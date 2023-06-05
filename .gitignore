@@ -1,0 +1,5 @@
+image/*
+src/__pycache__/*
+src/logs/*
+src/weights.hdf5
+work/*
